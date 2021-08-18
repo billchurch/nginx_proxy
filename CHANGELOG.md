@@ -1,19 +1,4 @@
 # Changelog
-## 3.0.2-bill
-
-- Update Alpine to 3.14
-- Use images from ghcr
-## 3.0.1-bill
-
-- Fix the use of subfolders with certificate files
-## 3.0-bill
-
-- Update Alpine to 3.11
-- Use mozilla Recommended SSL settings
-
-## 2.6-bill
-- Redirect to https instead of http for ha server node
-
 ## 3.0.2
 
 - Update Alpine to 3.14
