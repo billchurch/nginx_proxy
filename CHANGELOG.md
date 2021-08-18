@@ -1,4 +1,9 @@
 # Changelog
+## 3.0-bill
+
+- Update Alpine to 3.11
+- Use mozilla Recommended SSL settings
+
 ## 2.6-bill
 - Redirect to https instead of http for ha server node
 
