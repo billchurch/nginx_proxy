@@ -1,4 +1,7 @@
 # Changelog
+## 3.0.1-bill
+
+- Fix the use of subfolders with certificate files
 ## 3.0-bill
 
 - Update Alpine to 3.11
