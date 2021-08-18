@@ -14,6 +14,20 @@
 ## 2.6-bill
 - Redirect to https instead of http for ha server node
 
+## 3.0.2
+
+- Update Alpine to 3.14
+- Use images from ghcr
+
+## 3.0.1
+
+- Fix the use of subfolders with certificate files
+
+## 3.0
+
+- Update Alpine to 3.11
+- Use mozilla Recommended SSL settings
+
 ## 2.6
 
 - Remove ipv6 listener because we run only inside virtual network on a ipv4 range
