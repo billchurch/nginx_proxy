@@ -1,4 +1,6 @@
 # Changelog
+## 2.6-bill
+- Redirect to https instead of http for ha server node
 
 ## 2.6
 
