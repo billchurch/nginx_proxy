@@ -1,4 +1,8 @@
 # Changelog
+## 3.0.2-bill
+
+- Update Alpine to 3.14
+- Use images from ghcr
 ## 3.0.1-bill
 
 - Fix the use of subfolders with certificate files
